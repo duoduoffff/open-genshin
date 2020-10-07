@@ -32,3 +32,11 @@ To add to this file:
 2. Use the given Python script to automatically add content. This script utilizes iFlyTek open platform (This is a modded version of mine from the provided SDK by iFlyTek). Fill your appID as well as your App Secret into the script.
 3. When using the script, pay attention to the status. Avoid duplicating items in it!
 4. To manually correct the file's content, edit the file via Microsoft Excel. It is very friendly!
+
+To access the audio:
+
+Go to <https://wwa.lanzous.com/b083vered> (Password: 6hxk)
+
+Now the shared content is not complete yet because I have been busy transcripting the remaining audio content. There are totally **31** "External" packages in total and currently transcription of 2 of them have been completed.
+
+I used [this](https://www.bilibili.com/read/cv7735377/) method to extract the audio files.
