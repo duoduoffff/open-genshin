@@ -24,7 +24,7 @@ Some machine learning software require such a configuration map in order to do r
 
 ## Contribute!
 
-Because I haven't played the game and of course don't know much about it, I tried the iFlyTek's 
+Because I haven't played the game and of course don't know much about it, I tried the iFlyTek's Neural Network Service to automatically recognize the voice contents, and of course there are super many mistakes.
 
 To add to this file:
 
