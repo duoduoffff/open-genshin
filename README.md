@@ -24,6 +24,12 @@ Some machine learning software require such a configuration map in order to do r
 
 ## Contribute!
 
+**2020.10.10 update:**
+
+1. I have used up my free iFlyTek quota. A large portion of the entire voice repository has been completed, but there are quite a few remaining content. Anyone who used his/her own appID and appSecret, please remove your credentials before committing.
+2. I have given up playing the game in just one day because I have discovered a bug inside it that prevents me from continuing my mainthread plot. Details: (zh_CN) <https://t.bilibili.com/444157265461365521>.
+3. I LOVE PAIMON while Mihoyo disappoints me.
+
 Because I haven't played the game and of course don't know much about it, I tried the iFlyTek's Neural Network Service to automatically recognize the voice contents, and of course there are super many mistakes.
 
 To add to this file:
